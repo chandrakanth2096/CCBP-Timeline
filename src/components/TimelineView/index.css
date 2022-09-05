@@ -1,0 +1,10 @@
+.timeline-chrono {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+}
